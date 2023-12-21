@@ -60,7 +60,7 @@ export const project_specifications: ProjectsSpecificationType[] = [
     category: "nextJS",
     image: "/images/cards-images/myPortfolio.png",
     name: "My Portfolio",
-    desc: "fully responsive e-commerce website created with Next JS and Typescript",
+    desc: "fully responsive portfolio website created with Next JS and Typescript",
     linkGithub: "https://github.com/Metodij-Gjorgichkov/myPortfolio",
   },
   {
@@ -175,7 +175,7 @@ export const project_specifications: ProjectsSpecificationType[] = [
     category: "javascript",
     image: "/images/cards-images/javascript02.png",
     name: "Street Artists App",
-    desc: "mobile website about Stret Artists and paitings created with Javascript",
+    desc: "mobile website about Street Artists and paitings created with Javascript",
     linkTo: "https://metodij-gjorgichkov-artists-project.netlify.app",
     linkGithub:
       "https://github.com/Metodij-Gjorgichkov/myProjects/tree/project-02/project-02",

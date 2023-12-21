@@ -240,6 +240,7 @@ a:hover {
   overflow-x: auto;
   white-space: nowrap;
   z-index: 1;
+  padding: 8px;
 }
 .choose-project::-webkit-scrollbar {
   width: 0;

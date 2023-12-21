@@ -17,29 +17,26 @@ const Contact = () => {
   const sendEmail = (e: any) => {
     e.preventDefault();
 
-    if (name && message && email) {
-      emailjs
-        .sendForm(
-          "service_1rqxmve",
-          "template_d1k6vcw",
-          // @ts-ignore
-          formRef.current,
-          "MMmwnglbpvVdvMuJy"
-        )
-        .then(
-          () => {
-            setSuccess(true);
-            setError(false);
-            console.log(formRef.current);
-          },
-          () => {
-            setError(true);
-            setSuccess(false);
-            console.log(formRef.current);
-          }
-        );
-      clearFormInputs();
-    }
+    emailjs
+      .sendForm(
+        "service_1rqxmve",
+        "template_d1k6vcw",
+        // @ts-ignore
+        formRef.current,
+        "MMmwnglbpvVdvMuJy"
+      )
+      .then(
+        () => {
+          setSuccess(true);
+          setError(false);
+          clearFormInputs();
+        },
+        () => {
+          setError(true);
+          setSuccess(false);
+          console.log(formRef.current);
+        }
+      );
   };
 
   const clearFormInputs = () => {

@@ -20,7 +20,7 @@ const Card = ({ projectSpecData }: Props) => {
             initial="initial"
             whileInView="animate"
             key={project.id}
-            className={`col-12 col-md-6 col-lg-4 card position-relative mb-3 text-dark ${
+            className={`col-12 col-md-6 col-lg-4 card position-relative mb-4 text-dark ${
               theme === "dark" ? "dark" : ""
             } `}
           >

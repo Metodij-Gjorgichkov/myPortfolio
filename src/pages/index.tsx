@@ -21,7 +21,7 @@ const Home: NextPage = () => {
         />
         <meta
           name="keywords"
-          content="frontend development, web development, responsive layouts, interactive interfaces, clean code, user-friendly experiences"
+          content="HTML, CSS, JavaScript, Responsive Design, User Interface, User Experience, Front-end Frameworks, Web Design, Progressive Web Apps, Mobile First, Cross-Browser Compatibility, Browser Developer Tools, DOM Manipulation, CSS Preprocessors, Web Accessibility, Single Page Applications, API Integration, Version Control, Build Tools, Responsive Typography, Grid Systems, Media Queries, Performance Optimization, Code Splitting, Front-end Architecture, Component-based Development, Progressive Enhancement, Design Patterns, Browser Rendering Engine, Web Standards, SEO-friendly Markup, Animation, ARIA Roles, Front-end Testing, Code Linting, Cross-Origin Resource Sharing, AJAX, Browser Compatibility Testing, Websockets, Front-end Security, Clean Code, Interactive Interfaces"
         />
         <meta name="author" content="Metodij Gjorgichkov" />
         <meta name="robots" content="index, follow" />

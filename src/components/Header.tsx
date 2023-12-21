@@ -103,7 +103,7 @@ const Header = () => {
                 }`}
                 variants={variants}
               >
-                <img src="/images/mgj.png" alt="logo" className="mr-2 logo" />
+                <img src={header.logo_image} alt="logo" className="mr-2 logo" />
                 <span className="logo-text text-uppercase">
                   {header.logo_name}
                 </span>

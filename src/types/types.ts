@@ -1,4 +1,5 @@
 export interface HeaderType {
+  logo_image: string;
   logo_name: string;
   nav_links: {
     title: string;

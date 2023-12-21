@@ -8,6 +8,8 @@ import {
 } from "./types/types";
 
 export const header: HeaderType = {
+  logo_image:
+    "https://ik.imagekit.io/metodijgj99/mgj.png?updatedAt=1703169735732",
   logo_name: "gjorgichkov",
   nav_links: [
     {

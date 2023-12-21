@@ -26,7 +26,10 @@ const Home: NextPage = () => {
         <meta name="author" content="Metodij Gjorgichkov" />
         <meta name="robots" content="index, follow" />
 
-        <meta property="og:title" content="Gjorgichkov - Frontend Developer" />
+        <meta
+          property="og:title"
+          content="Metodij Gjorgichkov - Frontend Developer"
+        />
         <meta
           property="og:description"
           content="Passionate frontend developer with expertise in creating captivating and user-friendly web experiences. I specialize in translating designs into clean and responsive code, ensuring seamless and interactive interfaces. Explore my portfolio to witness my commitment to crafting visually appealing websites with a focus on user experience. Let's bring your digital ideas to life together."

@@ -61,8 +61,7 @@ export const project_specifications: ProjectsSpecificationType[] = [
     image: "/images/cards-images/myPortfolio.png",
     name: "My Portfolio",
     desc: "fully responsive e-commerce website created with Next JS and Typescript",
-    linkTo: "https:netlify",
-    linkGithub: "wwww.facebook.com",
+    linkGithub: "https://github.com/Metodij-Gjorgichkov/myPortfolio",
   },
   {
     id: 2,

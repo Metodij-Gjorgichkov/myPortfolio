@@ -32,7 +32,7 @@ export const header: HeaderType = {
 };
 
 export const banner: BannerType = {
-  who_am_i: "Hello, I'am",
+  who_am_i: "Hello, I am",
   name: "Metodij Gjorgichkov",
   front_end: "Front End Developer",
   contact: "Contact Info",
@@ -228,6 +228,15 @@ export const project_specifications: ProjectsSpecificationType[] = [
     desc: "full responsive architecture website about designs and making appointments created with Next JS and Typescript",
     linkGithub:
       "https://github.com/Metodij-Gjorgichkov/challenges/tree/Mentorship-NextJS-02",
+  },
+  {
+    id: 19,
+    category: "nextJS",
+    image: "/images/cards-images/next06.png",
+    name: "E-commerce website",
+    desc: "mobile responsive e-commerce website about handmade jewerly created with Next JS and Typescript",
+    linkGithub:
+      "https://github.com/Metodij-Gjorgichkov/myProjects/tree/hackaton-marinov",
   },
 ];
 

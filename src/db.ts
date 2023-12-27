@@ -238,6 +238,15 @@ export const project_specifications: ProjectsSpecificationType[] = [
     linkGithub:
       "https://github.com/Metodij-Gjorgichkov/myProjects/tree/hackaton-marinov",
   },
+  {
+    id: 20,
+    category: "nextJS",
+    image: "/images/cards-images/next07.png",
+    name: "Hackaton Breathe",
+    desc: "still working on the mobile app about tracking the air polution created with Next JS and Typescript",
+    linkGithub:
+      "https://github.com/Metodij-Gjorgichkov/myProjects/tree/hackaton-breathemk",
+  },
 ];
 
 export const skills: SkillsType = {

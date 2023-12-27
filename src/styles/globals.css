@@ -313,6 +313,12 @@ picture img {
   transform: scale(1);
   cursor: pointer;
 }
+.card-content {
+  overflow-y: auto;
+}
+.card-content::-webkit-scrollbar {
+  width: 0;
+}
 /* CARD */
 /* PAGINATION */
 .circle {

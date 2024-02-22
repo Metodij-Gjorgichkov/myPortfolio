@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="description"
-          content="Passionate frontend developer with expertise in creating captivating and user-friendly web experiences. I specialize in translating designs into clean and responsive code, ensuring seamless and interactive interfaces. Explore my portfolio to witness my commitment to crafting visually appealing websites with a focus on user experience. Let's bring your digital ideas to life together."
+          content="Passionate full stack developer with expertise in creating captivating and user-friendly web experiences. I specialize in translating designs into clean and responsive code, ensuring seamless and interactive interfaces. Explore my portfolio to witness my commitment to crafting visually appealing websites with a focus on user experience. Let's bring your digital ideas to life together."
         />
         <meta
           name="keywords"
@@ -28,11 +28,11 @@ const Home: NextPage = () => {
 
         <meta
           property="og:title"
-          content="Metodij Gjorgichkov - Frontend Developer"
+          content="Metodij Gjorgichkov - Full Stack Developer"
         />
         <meta
           property="og:description"
-          content="Passionate frontend developer with expertise in creating captivating and user-friendly web experiences. I specialize in translating designs into clean and responsive code, ensuring seamless and interactive interfaces. Explore my portfolio to witness my commitment to crafting visually appealing websites with a focus on user experience. Let's bring your digital ideas to life together."
+          content="Passionate full stack developer with expertise in creating captivating and user-friendly web experiences. I specialize in translating designs into clean and responsive code, ensuring seamless and interactive interfaces. Explore my portfolio to witness my commitment to crafting visually appealing websites with a focus on user experience. Let's bring your digital ideas to life together."
         />
         <meta
           property="og:image"

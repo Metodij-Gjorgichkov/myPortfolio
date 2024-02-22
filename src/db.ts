@@ -34,12 +34,12 @@ export const header: HeaderType = {
 export const banner: BannerType = {
   who_am_i: "Hello, I am",
   name: "Metodij Gjorgichkov",
-  front_end: "Front End Developer",
+  front_end: "Full Stack Developer",
   contact: "Contact Info",
   contactLinkTo: "#contact",
   image:
     "https://ik.imagekit.io/metodijgj99/metodij.png?updatedAt=1702249540999",
-  passionate_frond_end: "passionate front end developer",
+  passionate_frond_end: "passionate full stack developer",
 };
 
 export const project_type: ProjectsType = {
@@ -311,6 +311,16 @@ export const skills: SkillsType = {
       image:
         "https://ik.imagekit.io/metodijgj99/figma.png?updatedAt=1702472073142",
       title: "Figma",
+    },
+    {
+      image:
+        "https://ik.imagekit.io/metodijgj99/mysql.png?updatedAt=1708616433120",
+      title: "MySQL",
+    },
+    {
+      image:
+        "https://ik.imagekit.io/metodijgj99/php.png?updatedAt=1708616433088",
+      title: "PHP",
     },
   ],
 };

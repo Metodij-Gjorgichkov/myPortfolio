@@ -334,12 +334,7 @@ export const contact: ContactType = {
       linkTo: "mailto:metodijgjorgichkov@yahoo.com",
     },
     {
-      name: "+41 77 472 54 51",
-      image: "/icons/phone.png",
-      linkTo: "tel:+41 77 472 54 51",
-    },
-    {
-      name: "Based in Switzerland",
+      name: "Based in Macedonia",
       image: "/icons/location.png",
     },
     {

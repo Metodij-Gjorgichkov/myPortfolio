@@ -157,7 +157,7 @@ const Contact = () => {
         <div className="row text-center">
           <div className="col-12">
             <motion.p variants={variants}>
-              Copyright &copy; Metodij Gjorgichkov
+              Copyright &copy; 2023 Metodij Gjorgichkov
             </motion.p>
           </div>
         </div>

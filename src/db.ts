@@ -240,12 +240,31 @@ export const project_specifications: ProjectsSpecificationType[] = [
   },
   {
     id: 20,
+    category: "reactJS",
+    image: "/images/cards-images/reactEscape.png",
+    name: "Escape Caffe Menu",
+    desc: "mobile responsive menu created with React JS",
+    linkTo: "https://escapecafferadovish.com/",
+    linkGithub:
+      "https://github.com/Metodij-Gjorgichkov/escape-menu",
+  },
+  {
+    id: 21,
     category: "nextJS",
     image: "/images/cards-images/next07.png",
     name: "Hackaton Breathe",
     desc: "still working on the mobile app about tracking the air polution created with Next JS and Typescript",
     linkGithub:
       "https://github.com/Metodij-Gjorgichkov/myProjects/tree/hackaton-breathemk",
+  },
+  {
+    id: 22,
+    category: "nextJS",
+    image: "/images/cards-images/nextJsKrikApp.png",
+    name: "Krik Website",
+    desc: "mobile and desktop responsive website with Next JS and Typescript",
+    linkGithub:
+      "https://github.com/Metodij-Gjorgichkov/krik-project",
   },
 ];
 
